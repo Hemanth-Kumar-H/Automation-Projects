@@ -3,7 +3,7 @@
 ## Web Automation Project
 - Automates e-commerce site: login → search → add to cart → checkout
 - Tech Stack: Selenium WebDriver, Java, TestNG, Maven
-- [Folder/Link]: Web-Automation
+- https://github.com/Hemanth-Kumar-H/Automation-Projects/tree/main/WebAutomation: Web-Automation
 
 ## API Automation Project
 - Automates CRUD operations on public API (reqres.in)
