@@ -30,13 +30,6 @@
             <version>20230227</version>
         </dependency>
 
-        <!-- Extent Reports (Optional) -->
-        <dependency>
-            <groupId>com.aventstack</groupId>
-            <artifactId>extentreports</artifactId>
-            <version>5.0.9</version>
-        </dependency>
-    </dependencies>
 
     <build>
         <plugins>
@@ -48,3 +41,4 @@
         </plugins>
     </build>
 </project>
+
